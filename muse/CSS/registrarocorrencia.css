@@ -1,0 +1,111 @@
+.version.registrarocorrencia /* version checker */
+{
+	color: #0000E6;
+	background-color: #A8A250;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 695px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1757
+{
+	z-index: 2;
+	padding-bottom: 126.26700071581968px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -25px;
+	width: 108.75%;
+	left: -4.38%;
+}
+
+#u1397
+{
+	z-index: 9;
+	position: relative;
+	width: 100%;
+}
+
+#u1303
+{
+	z-index: 10;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	width: 100%;
+}
+
+#u1304
+{
+	z-index: 11;
+	height: 46px;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u1367
+{
+	z-index: 7;
+	margin-top: 19px;
+	position: relative;
+	width: 18.01%;
+	margin-left: 9.97%;
+}
+
+#u1700
+{
+	z-index: 12;
+	min-height: 408px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+	width: 79.89%;
+	margin-left: 9.68%;
+}
+
+#u1027-4
+{
+	z-index: 3;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	width: 26.36%;
+	left: 71.57%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	margin-bottom: -38px;
+	min-height: 1px;
+}
+
+#u1367_img
+{
+	width: 100%;
+}
+

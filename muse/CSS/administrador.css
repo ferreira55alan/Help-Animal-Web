@@ -1,0 +1,45 @@
+.version.administrador /* version checker */
+{
+	color: #0000F2;
+	background-color: #AD4176;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 272px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 144px;
+	padding-bottom: 84px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1535
+{
+	z-index: 2;
+	min-height: 272px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	width: 20.84%;
+	margin-left: 3.55%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

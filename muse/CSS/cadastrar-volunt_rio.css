@@ -1,0 +1,45 @@
+.version.cadastrar_volunt_rio /* version checker */
+{
+	color: #0000F2;
+	background-color: #5AE680;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 147px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 316px;
+	padding-bottom: 37px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1023
+{
+	z-index: 2;
+	min-height: 147px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	width: 31.25%;
+	margin-left: 64.17%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

@@ -1,0 +1,121 @@
+.version.cadastro /* version checker */
+{
+	color: #0000E1;
+	background-color: #49CF91;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 695px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1576
+{
+	z-index: 12;
+	min-height: 233px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 166px;
+	width: 36.15%;
+	left: 37.5%;
+}
+
+#u1951
+{
+	z-index: 2;
+	position: relative;
+	margin-right: -10000px;
+	width: 130.42%;
+	margin-left: -15.21%;
+	left: -6px;
+}
+
+#u1757
+{
+	z-index: 3;
+	padding-top: 22px;
+	padding-bottom: 20px;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u1303
+{
+	z-index: 10;
+	padding-bottom: 5px;
+	position: relative;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u1304
+{
+	z-index: 11;
+	height: 46px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -22px;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u1367
+{
+	z-index: 8;
+	margin-top: 19px;
+	position: relative;
+	width: 15.02%;
+	margin-left: 42.5%;
+	left: -318px;
+}
+
+#u1027-4
+{
+	z-index: 4;
+	min-height: 18px;
+	margin-top: 527px;
+	position: relative;
+	width: 20.21%;
+	margin-left: 39.9%;
+	left: 339px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+.verticalspacer
+{
+	margin-bottom: -720px;
+	min-height: 292px;
+}
+
+#u1367_img
+{
+	width: 100%;
+}
+

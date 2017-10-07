@@ -1,0 +1,59 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.helpanimails.com.br" resolutions="1x" timestamp="1507206694369">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-mestre.css" crc="24823326" ref="usuario:sem-título-6:registraranimal:contatos:registrarocorrencia:cadastro:index"/>
+    <file name="usuario.css" crc="85053324" ref="usuario"/>
+    <file name="sem-t_tulo-6.css" crc="4048690952" ref="sem-título-6"/>
+    <file name="registraranimal.css" crc="315145931" ref="registraranimal"/>
+    <file name="contatos.css" crc="4289218473" ref="contatos"/>
+    <file name="registrarocorrencia.css" crc="3869811280" ref="registrarocorrencia"/>
+    <file name="cadastro.css" crc="132015825" ref="cadastro"/>
+    <file name="administrador.css" crc="4071440758" ref="administrador"/>
+    <file name="sem-t_tulo-9.css" crc="3876740571" ref="sem-título-9"/>
+    <file name="index.css" crc="521829020" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="customslidelateral.css" crc="3887415177" seo="true" mt="1507172314000"/>
+    <file name="style.css" crc="3836493881" seo="true" mt="1507189439000"/>
+    <file name="cadastrousu.css" crc="347536961" seo="true" mt="1507203554000"/>
+    <file name="custom.css" crc="4094290876" seo="true" mt="1507180520000"/>
+    <file name="mnlateral.css" crc="58687324" seo="true" mt="1507191683000"/>
+    <file name="mp.js" crc="4266441819" seo="true" mt="1507202750000"/>
+    <file name="stylemp.css" crc="273022948" seo="true" mt="1507202750000"/>
+    <file name="formulariocadastro.css" crc="526513669" seo="true" mt="1432042976000"/>
+    <file name="jquery.maskedinput.min.js" crc="3918718565" seo="true" mt="1432042976000"/>
+    <file name="jquery.validate.min.js" crc="194564488" seo="true" mt="1432042976000"/>
+    <file name="jquery.zebra-datepicker.js" crc="197125675" seo="true" mt="1432042976000"/>
+    <file name="jquery-1.10.2.min.js" crc="3984008409" seo="true" mt="1432042976000"/>
+    <file name="slidebarr.js" crc="371057767" seo="true" mt="1507216054000"/>
+    <file name="slidebarmenu.css" crc="4128474411" seo="true" mt="1507216054000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="usuario:contatos:cadastro:administrador:index:sem-título-6:registrarocorrencia:registraranimal:sem-título-9"/>
+    <file name="museutils.js" crc="4190794036" ref="usuario:contatos:cadastro:administrador:index:sem-título-6:registrarocorrencia:registraranimal:sem-título-9"/>
+    <file name="whatinput.js" crc="84559013" ref="usuario:contatos:cadastro:administrador:index:sem-título-6:registrarocorrencia:registraranimal:sem-título-9"/>
+    <file name="pie.js" crc="3827607177" ref="usuario"/>
+    <file name="webpro.js" crc="488283310" ref="usuario"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="usuario"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="usuario"/>
+    <file name="touchswipe.js" crc="4191887251" ref="usuario"/>
+    <file name="jquery.watch.js" crc="349565855" ref="usuario:contatos:cadastro:administrador:index:sem-título-6:registrarocorrencia:registraranimal:sem-título-9"/>
+  </folder>
+  <folder name="images">
+    <file name="logo help animails cor.png" crc="9870600" seo="true" ref="usuario:contatos:cadastro:index:sem-título-6:registrarocorrencia:registraranimal"/>
+    <file name="evento.jpg" crc="4089620960" seo="true" ref="usuario"/>
+    <file name="blank.gif" crc="4208392903" ref="usuario"/>
+    <file name="imagem-blog.jpg" crc="4137690422" seo="true" ref="usuario"/>
+    <file name="petz jana com data.jpg" crc="3942151928" seo="true" ref="usuario"/>
+    <file name="loading.gif" crc="3815509949" ref="usuario"/>
+  </folder>
+  <file name="usuario.html" crc="4209740742" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="contatos.html" crc="4261569951" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="cadastro.html" crc="4290545448" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="administrador.html" crc="3891423421" seo="true" mt="1507172263505" redirect="true"/>
+  <file name="index.html" crc="4052628163" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="sem-título-6.html" crc="4225812819" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="registrarocorrencia.html" crc="490606284" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="registraranimal.html" crc="4039795840" seo="true" mt="1507205977304" redirect="true"/>
+  <file name="sem-título-9.html" crc="4070858343" seo="true" mt="1507205694049" redirect="true"/>
+</manifest>

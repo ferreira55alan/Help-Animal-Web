@@ -1,0 +1,45 @@
+.version.sem_t_tulo_9 /* version checker */
+{
+	color: #0000E7;
+	background-color: #125DDB;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 304px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 10px;
+	padding-bottom: 186px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u1873
+{
+	z-index: 2;
+	min-height: 304px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	width: 47.4%;
+	margin-left: 1.46%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
